@@ -1,0 +1,11 @@
+{
+  "name": "bus-master-lib",
+  "version": "1.0",
+  "dependencies": [],
+    "features": {
+      "gui": {
+        "description": "Build GUI and driver daemons",
+        "dependencies": ["wxwidgets"]
+      }
+  }
+}
